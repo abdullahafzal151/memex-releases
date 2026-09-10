@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
-  "notes": "Added intelligent rate-limit handling, persistent vector caching, and a background recovery worker for massive document indexing.",
-  "pub_date": "2026-09-03T10:00:00Z",
+  "version": "1.1.0",
+  "notes": "Architectural overhaul featuring local CPU embeddings (BGE-Small), parallelized multi-core vector search, massively optimized React chat rendering, Quick-Fill presets for free cloud AI models (Groq, Gemini, Mistral), and new privacy-friendly diagnostic tools.",
+  "pub_date": "2026-09-10T11:40:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNzk3S1NNZEpIbTNXRVhMOUZUS3F6Ym5QN3JLeEo0bWo5WGVSRXJpbXl4a3FiSjZQaVpOaTNwL2tuKzhRK1dueU9nN2I5czZzM3JUTkRTcGxqK29MdHRvTS93cDdtZUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDEzMjMxCWZpbGU6TWVtZXhfMS4wLjRfeDY0X2VuLVVTLm1zaQo3TnhHSVcvSFZtTjRYcndHci9hdHhsOE01SFBXOE5FTnlGanRZczFlR3BGQ1oweWV3MnZPYnB5VnB2cVlzTnQzTkI2bTEyWWs2OUVCd05nbjZYZERDdz09Cg==",
-      "url": "https://github.com/abdullahafzal151/memex-releases/releases/download/v1.0.4/Memex_1.0.4_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNzk3S1NNZEpIbThwYk1mVXByaFVmaGtZVVFBWTN3M3hmR3ZKdFlES3JzYjBsSWtUUzVLSmpHNk42eXpYUVpOWGRaWFR2TGFFKzIzNXQwbzNGL3pmUWY3TTNBRGdhOHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDQwMDEzCWZpbGU6TWVtZXhfMS4xLjBfeDY0X2VuLVVTLm1zaQo3bklkN0RCY29yU3dpWlhFa2cwaDRZMlZScE1NN2R2RUY5ZThBT1Jwak5tNTZDYi85d3djQmZnTVRJeEJDbkR6c2tXWU9NZFNPTVF5M0t1dnhlTmdEdz09Cg==",
+      "url": "https://github.com/abdullahafzal151/memex-releases/releases/download/v1.1.0/Memex_1.1.0_x64_en-US.msi"
     }
   }
 }
